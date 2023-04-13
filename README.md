@@ -3,3 +3,4 @@ Analyze fast food data from different popular restaraunts based on nutritional v
 
 ### Team Members:
 Luke Smith
+Kim Reitema
