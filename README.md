@@ -5,5 +5,4 @@ Analyze fast food data from different popular restaraunts based on nutritional v
 Luke Smith
 Kim Reitema
 Donna Das
-
-
+Shahad Rahman
