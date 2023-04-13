@@ -1,2 +1,5 @@
 # ut-dav-project-one
-First team project for UT Data Analytics and Visualization
+Analyze fast food data from different popular restaraunts based on nutritional value.
+
+### Team Members:
+Luke Smith
