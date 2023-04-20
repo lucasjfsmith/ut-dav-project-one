@@ -1,0 +1,150 @@
+,restaurant,item,calories,protein,total_fat,total_carb,recipe_name,recipe_calories,recipe_protein,recipe_fat,recipe_carbs,recipe_image
+0,Burger King,Jalapeno King Sandwich,990,55.0,65,46,Baked Halibut,960.0,35.0,81.0,12.0,https://spoonacular.com/recipeImages/633638-312x231.jpg
+1,Subway,Footlong Turkey Italiano Melt (with Provolone),980,48.0,48,94,Brown Butter and Sage Ravioli,985.0,33.0,71.0,51.0,https://spoonacular.com/recipeImages/636286-312x231.jpg
+2,Arbys,Ultimate BLT,980,43.0,55,80,Extra Large Homemade Meatballs w Pasta,933.0,53.0,58.0,43.0,https://spoonacular.com/recipeImages/642502-312x231.jpg
+3,Sonic,3 Piece Super Crunch Chicken Strip Dinner,970,30.0,46,109,Lamb & Sweet Potato Pot Pie,961.0,21.0,64.0,64.0,https://spoonacular.com/recipeImages/649178-312x231.jpg
+4,Mcdonalds,6 piece Sweet N' Spicy Honey BBQ Glazed Tenders,960,58.0,40,94,Pork tenderloin in puff pastry,933.0,43.0,62.0,46.0,https://spoonacular.com/recipeImages/1095801-312x231.jpg
+5,Taco Bell,XXL Grilled Stuft Burrito - Beef,880,31.0,42,94,Balsamic Glazed Steak Rolls,891.0,71.0,60.0,10.0,https://spoonacular.com/recipeImages/633931-312x231.jpg
+6,Burger King,DOUBLE WHOPPER w/ Cheese,990,52.0,65,53,Drelli Belly Buster,988.0,34.0,46.0,91.0,https://spoonacular.com/recipeImages/157124-312x231.jpg
+7,Subway,Footlong Meatball Marinara,960,42.0,36,118,Best Breakfast Burrito,960.0,31.0,50.0,88.0,https://spoonacular.com/recipeImages/634882-312x231.jpg
+8,Mcdonalds,Crispy Bacon Smokehouse Chicken Sandwich,920,46.0,45,81,Pan-Fried Pork Steak,895.0,103.0,47.0,8.0,https://spoonacular.com/recipeImages/654456-312x231.jpg
+9,Sonic,Sonic Bacon Cheeseburger (w/mayo),870,39.0,59,45,Slow Cooker Baked Potato Soup,884.0,35.0,33.0,104.0,https://spoonacular.com/recipeImages/715385-312x231.jpg
+10,Arbys,Pecan Chicken Salad Sandwich,840,33.0,44,81,Mighty Arrow Cheddar Soup,825.0,27.0,66.0,26.0,https://spoonacular.com/recipeImages/651848-312x231.jpg
+11,Taco Bell,XXL Grilled Stuft Burrito - Chicken,830,37.0,35,91,Rustic Red Wine Spaghetti,855.0,35.0,40.0,87.0,https://spoonacular.com/recipeImages/452116-312x231.jpg
+12,Burger King,Sourdough King Double,970,55.0,61,52,Crock Pot Shredded French Dip,994.0,97.0,53.0,31.0,https://spoonacular.com/recipeImages/640869-312x231.jpg
+13,Subway,Footlong Spicy Italian,960,40.0,48,92,Assembly Salad,916.0,7.0,95.0,9.0,https://spoonacular.com/recipeImages/632982-312x231.jpg
+14,Mcdonalds,20 Piece Chicken McNuggets,890,49.0,53,53,Pierogi Casserole,846.0,30.0,32.0,103.0,https://spoonacular.com/recipeImages/715563-312x231.jpg
+15,Sonic,Footlong Quarter Pound Coney,830,30.0,54,54,Wienerschnitzel,790.0,49.0,44.0,45.0,https://spoonacular.com/recipeImages/1697747-312x231.jpg
+16,Taco Bell,XXL Grilled Stuft Burrito - Steak,820,33.0,36,91,Easy as Pie - Mini Apple Pear Pies for Fall,796.0,7.0,37.0,106.0,https://spoonacular.com/recipeImages/1697707-312x231.jpg
+17,Arbys,"Roast Turkey, Ranch & Bacon Sandwich",800,45.0,34,79,Blueberry Compote Bread Pudding With Soft Curd Cheese Sabayon,836.0,25.0,45.0,84.0,https://spoonacular.com/recipeImages/635447-312x231.jpg
+18,Burger King,20 Piece Chicken Nuggets,950,51.0,55,50,Strawberry Shortcake Waffles,907.0,11.0,57.0,87.0,https://spoonacular.com/recipeImages/1697721-312x231.jpg
+19,Subway,Footlong Corned Beef Reuben,940,78.0,30,90,Orange Chicken With Brown Rice (Gluten-Free),897.0,43.0,56.0,53.0,https://spoonacular.com/recipeImages/653835-312x231.jpg
+20,Mcdonalds,Single Bacon Smokehouse Burger,840,46.0,45,62,Slow Cooker Chicken Verde Enchilada,848.0,44.0,54.0,40.0,https://spoonacular.com/recipeImages/660286-312x231.jpg
+21,Sonic,Sonic Cheeseburger W/ Mayonnaise,800,35.0,54,44,Fried Ravioli & Mint Parsley Pesto,784.0,17.0,62.0,38.0,https://spoonacular.com/recipeImages/643781-312x231.jpg
+22,Taco Bell,Spicy Triple Double Crunchwrap,780,23.0,38,87,"Broccoli, Dried Cranberry and Smokey Bacon Salad",783.0,16.0,68.0,25.0,https://spoonacular.com/recipeImages/636236-312x231.jpg
+23,Arbys,Half Pound French Dip & Swiss,750,55.0,36,51,Chili Lime Chicken Burgers,746.0,54.0,41.0,35.0,https://spoonacular.com/recipeImages/638566-312x231.jpg
+24,Burger King,Mushroom & Swiss King,940,49.0,63,45,Banana Chocolate Walnut Cake,937.0,18.0,50.0,105.0,https://spoonacular.com/recipeImages/634054-312x231.jpg
+25,Subway,Footlong Tuna,940,40.0,48,88,Cheese Tortellini With Shrimp In Tomato Cream Sauce,897.0,46.0,46.0,70.0,https://spoonacular.com/recipeImages/637593-312x231.jpg
+26,Mcdonalds,Crispy Sweet BBQ Bacon Chicken Sandwich,800,39.0,36,80,Blueberry Cinnamon Porridge,780.0,4.0,74.0,32.0,https://spoonacular.com/recipeImages/635446-312x231.jpg
+27,Taco Bell,Fiesta Taco Salad-Beef,780,26.0,42,74,Easy Eclairs,817.0,20.0,50.0,71.0,https://spoonacular.com/recipeImages/641955-312x231.jpg
+28,Sonic,Sonic Burger W/ Mayonnaise,740,31.0,48,44,Mangosteen Avocado Yogurt Parfait,728.0,15.0,54.0,39.0,https://spoonacular.com/recipeImages/650860-312x231.jpg
+29,Arbys,Half Pound Beef 'n Cheddar Sandwich,740,49.0,39,48,Chili Lime Chicken Burgers,746.0,54.0,41.0,35.0,https://spoonacular.com/recipeImages/638566-312x231.jpg
+30,Subway,Footlong Chicken Pizziola Melt,920,64.0,32,98,Roasted Tomato and White Bean Stew,959.0,36.0,43.0,89.0,https://spoonacular.com/recipeImages/1697533-312x231.jpg
+31,Burger King,DOUBLE WHOPPER w/o Cheese,900,47.0,57,51,Cheese Tortellini With Shrimp In Tomato Cream Sauce,897.0,46.0,46.0,70.0,https://spoonacular.com/recipeImages/637593-312x231.jpg
+32,Taco Bell,Cantina Power Burrito - Steak,780,33.0,28,98,Make-Ahead Creamy Macaroni and Cheese,743.0,29.0,49.0,45.0,https://spoonacular.com/recipeImages/650660-312x231.jpg
+33,Mcdonalds,Double Quarter Pounder® with Cheese,770,51.0,45,42,Make-Ahead Creamy Macaroni and Cheese,743.0,29.0,49.0,45.0,https://spoonacular.com/recipeImages/650660-312x231.jpg
+34,Arbys,Smoke Mountain w/ Beef Short Rib,740,43.0,35,62,Vip Red Velvet Rope Cake,745.0,8.0,40.0,90.0,https://spoonacular.com/recipeImages/66909-312x231.jpg
+35,Sonic,Deluxe Ultimate Chicken Sandwich,740,33.0,39,63,Jalapeno Cornbread Stuffing,728.0,14.0,28.0,102.0,https://spoonacular.com/recipeImages/648348-312x231.jpg
+36,Burger King,Double Quarter Pound King,900,56.0,54,50,Pasta With Italian Sausage,886.0,32.0,49.0,68.0,https://spoonacular.com/recipeImages/654928-312x231.jpg
+37,Subway,Footlong BBQ Rib Sandwich,860,38.0,36,94,Chicken Tikka Masala Indian,877.0,65.0,29.0,79.0,https://spoonacular.com/recipeImages/638389-312x231.jpg
+38,Taco Bell,Nachos BellGrande®,760,18.0,39,82,Peanut Butter Rice Krispie Treats,786.0,17.0,48.0,77.0,https://spoonacular.com/recipeImages/655330-312x231.jpg
+39,Mcdonalds,6 piece Buttermilk Crispy Chicken Tenders,760,58.0,44,32,Baked Stuffed Potatoes (Tandoori Potatoes),766.0,29.0,32.0,80.0,https://spoonacular.com/recipeImages/633824-312x231.jpg
+40,Arbys,Turkey Avocado Club,730,41.0,28,80,Skillet Roasted Chicken & Potatoes,738.0,45.0,44.0,35.0,https://spoonacular.com/recipeImages/660220-312x231.jpg
+41,Sonic,Traditional Ultimate Chicken Sandwich,730,32.0,39,62,Best Potato Cheese Soup in a bread bowl,750.0,26.0,45.0,58.0,https://spoonacular.com/recipeImages/634927-312x231.jpg
+42,Burger King,Sourdough Chicken Club,840,32.0,51,62,White Bean and Garlic Soup with Spinach and Crispy Prosciutto and Rosemary-Garlic Toasts,808.0,38.0,28.0,92.0,https://spoonacular.com/recipeImages/665141-312x231.jpg
+43,Subway,Footlong Subway Seafood Sensation,840,26.0,38,102,Caesar Dressing,812.0,11.0,84.0,4.0,https://spoonacular.com/recipeImages/1697651-312x231.jpg
+44,Taco Bell,Cantina Power Burrito - Chicken,760,32.0,27,96,Lemon-Pepper Fettucine Alfredo,797.0,23.0,55.0,48.0,https://spoonacular.com/recipeImages/649850-312x231.jpg
+45,Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750,55.0,31,62,Curry Mussels,743.0,64.0,33.0,29.0,https://spoonacular.com/recipeImages/641128-312x231.jpg
+46,Arbys,Super Greek Salad,720,22.0,53,39,Julia Child's Boeuf Bourguignon,746.0,61.0,28.0,44.0,https://spoonacular.com/recipeImages/648636-312x231.jpg
+47,Sonic,Sonic Cheeseburger W/ Ketchup,720,35.0,43,47,Learning to live healthier,713.0,69.0,44.0,6.0,https://spoonacular.com/recipeImages/715596-312x231.jpg
+48,Burger King,Bacon Cheddar Ranch Crispy Chicken Sandwich,830,34.0,52,57,Chocolate Banoffee Pie,860.0,11.0,50.0,89.0,https://spoonacular.com/recipeImages/638832-312x231.jpg
+49,Subway,Sausage Pizza,820,39.0,34,97,Bennigan's Style Potato Soup,842.0,25.0,45.0,78.0,https://spoonacular.com/recipeImages/634839-312x231.jpg
+50,Mcdonalds,Crispy Maple Bacon Dijon Chicken Sandwich,740,39.0,35,69,Grilled Chicken Hunter Style,732.0,84.0,38.0,8.0,https://spoonacular.com/recipeImages/645647-312x231.jpg
+51,Taco Bell,Cantina Power Burrito - Veggie,740,20.0,26,107,Baked Potatoes with Creamy Mushroom Ragout,749.0,14.0,37.0,82.0,https://spoonacular.com/recipeImages/633744-312x231.jpg
+52,Arbys,Greek Gyro,710,23.0,44,55,"Fall Farro Salad with Pomegranate, Walnut & Truffles",722.0,25.0,47.0,49.0,https://spoonacular.com/recipeImages/642556-312x231.jpg
+53,Sonic,Sonic Cheeseburger W/ Mustard,710,35.0,43,43,Fettuccine With Beans & Broccoli & Mushrooms,702.0,38.0,20.0,83.0,https://spoonacular.com/recipeImages/642730-312x231.jpg
+54,Subway,Footlong Italian B.M.T.,820,40.0,32,92,Buffalo Chicken Thighs,793.0,47.0,65.0,2.0,https://spoonacular.com/recipeImages/1697593-312x231.jpg
+55,Burger King,Bacon & Cheese Whopper,770,29.0,48,47,Classic Boeuf Bourguignon,736.0,63.0,38.0,19.0,https://spoonacular.com/recipeImages/639571-312x231.jpg
+56,Mcdonalds,Crispy Signature Sriracha Chicken Sandwich,730,32.0,33,75,Grilled Sesame Chicken,751.0,23.0,39.0,84.0,https://spoonacular.com/recipeImages/645879-312x231.jpg
+57,Taco Bell,Fiesta Taco Salad-Chicken,720,32.0,35,70,Asian Coleslaw with Baked Salmon,687.0,46.0,33.0,43.0,https://spoonacular.com/recipeImages/632822-312x231.jpg
+58,Arbys,Pecan Chicken Salad Flatbread,710,22.0,46,53,Bobby Flay's Meatball & Sauce,727.0,41.0,51.0,22.0,https://spoonacular.com/recipeImages/635578-312x231.jpg
+59,Sonic,Hatch Green Chile Cheeseburger,710,35.0,43,44,Dr Pepper Pulled Pork,674.0,58.0,13.0,77.0,https://spoonacular.com/recipeImages/641627-312x231.jpg
+60,Subway,"Turkey, Bacon & Guacamole Wrap",810,43.0,42,62,Chicken Piccata With Angel Hair Pasta,816.0,40.0,32.0,87.0,https://spoonacular.com/recipeImages/638248-312x231.jpg
+61,Burger King,Spicy Crispy Jalapeno Chicken Sandwich,760,32.0,45,58,Anzac Pride,724.0,8.0,42.0,75.0,https://spoonacular.com/recipeImages/632439-312x231.jpg
+62,Taco Bell,Fiesta Taco Salad-Steak,720,28.0,36,70,"Make this Creamy, Refreshing Dip & Be Ready for a Party in Less than 5 Minutes",754.0,13.0,65.0,24.0,https://spoonacular.com/recipeImages/1697727-312x231.jpg
+63,Arbys,Roast Turkey & Swiss Sandwich,710,38.0,28,79,Quick and Easy No-Boil Lasagna,690.0,44.0,38.0,40.0,https://spoonacular.com/recipeImages/1426885-312x231.jpg
+64,Mcdonalds,Crispy Garlic White Cheddar Chicken Sandwich,700,33.0,34,67,Pork Chops With Bourbon Peach Glaze,682.0,32.0,12.0,80.0,https://spoonacular.com/recipeImages/656743-312x231.jpg
+65,Sonic,Crispy Asiago Caesar Chicken Club Sandwich,680,31.0,39,53,Chicken with Cherry Tomato Heavy Cream Sauce,668.0,53.0,40.0,20.0,https://spoonacular.com/recipeImages/638431-312x231.jpg
+66,Subway,Pepperoni Pizza,790,38.0,32,96,Japanese Curry Puffs,815.0,12.0,50.0,74.0,https://spoonacular.com/recipeImages/648470-312x231.jpg
+67,Burger King,WHOPPER w/ Cheese,760,33.0,47,53,Simple Rendang,728.0,61.0,50.0,4.0,https://spoonacular.com/recipeImages/660128-312x231.jpg
+68,Taco Bell,Nacho Fries Bellgrande,710,13.0,41,73,Authentic Louisiana Crawfish Pie,706.0,17.0,55.0,34.0,https://spoonacular.com/recipeImages/1463207-312x231.jpg
+69,Arbys,Bourbon BBQ Steak Sandwich,690,38.0,31,66,How to Make the Perfect Sweet Potato Sloppy Joes,679.0,49.0,18.0,71.0,https://spoonacular.com/recipeImages/1046982-312x231.jpg
+70,Mcdonalds,Sweet BBQ Bacon 1/4 lb Burger,690,38.0,37,51,Creamy Asparagus Risotto Side Dish,674.0,59.0,23.0,46.0,https://spoonacular.com/recipeImages/640590-312x231.jpg
+71,Sonic,Sonic Burger W/ Ketchup,650,32.0,37,46,Valentine's Chicken Marsala,664.0,17.0,22.0,55.0,https://spoonacular.com/recipeImages/664270-312x231.jpg
+72,Subway,Footlong Turkey & Bacon Avocado,780,44.0,26,98,Lemon Pepper Garlic Tilapia with Creamy Spinach Pappardelle,744.0,26.0,46.0,53.0,https://spoonacular.com/recipeImages/157219-312x231.jpg
+73,Burger King,Sourdough King Single,730,35.0,43,52,Dutch Oven Danish Cake,738.0,11.0,27.0,114.0,https://spoonacular.com/recipeImages/641767-312x231.jpg
+74,Taco Bell,Smothered Burrito - Beef,710,28.0,35,70,Easy Slow Cooker Artichoke Garlic Chicken,718.0,76.0,15.0,56.0,https://spoonacular.com/recipeImages/642093-312x231.jpg
+75,Arbys,Buttermilk Chicken Cordon Bleu Sandwich,690,41.0,35,53,Peanut Butter Chocolate Cream Pie,721.0,17.0,37.0,81.0,https://spoonacular.com/recipeImages/655269-312x231.jpg
+76,Mcdonalds,Crispy Pico Guacamole Chicken Sandwich,680,31.0,32,69,Sauteed Trout with Pecans,694.0,39.0,53.0,13.0,https://spoonacular.com/recipeImages/659447-312x231.jpg
+77,Sonic,Jalapeno Burger,640,31.0,37,42,How to Make an Easy Chicken Enchilada,630.0,31.0,48.0,17.0,https://spoonacular.com/recipeImages/1171085-312x231.jpg
+78,Subway,Footlong Veggie Patty,780,46.0,14,112,How to Make the Cheesiest Bowtie Mac and Cheese,780.0,28.0,35.0,83.0,https://spoonacular.com/recipeImages/715595-312x231.jpg
+79,Burger King,Chicken Cordon Bleu Sandwich,730,32.0,39,63,Bobby Flay's Meatball & Sauce,727.0,41.0,51.0,22.0,https://spoonacular.com/recipeImages/635578-312x231.jpg
+80,Taco Bell,Original Triple Double Crunchwrap,700,23.0,30,85,Mussels With Tomatoes and Fennel,685.0,38.0,28.0,40.0,https://spoonacular.com/recipeImages/652775-312x231.jpg
+81,Arbys,Bourbon BBQ Chicken Sandwich,690,38.0,31,66,Herb chicken with sweet potato mash and sautéed broccoli,710.0,47.0,25.0,65.0,https://spoonacular.com/recipeImages/646651-312x231.jpg
+82,Mcdonalds,Signature Sriracha Burger,670,32.0,35,56,Asian Coleslaw with Baked Salmon,687.0,46.0,33.0,43.0,https://spoonacular.com/recipeImages/632822-312x231.jpg
+83,Sonic,Sonic Burger W/ Mustard,640,31.0,37,43,Chicken with White Wine Tarragon Cream Sauce,628.0,43.0,44.0,14.0,https://spoonacular.com/recipeImages/638455-312x231.jpg
+84,Subway,Chipotle Southwest Steak & Cheese Wrap,760,43.0,37,65,Chocolate Hazelnut Mousse,775.0,10.0,64.0,39.0,https://spoonacular.com/recipeImages/639054-312x231.jpg
+85,Burger King,Bacon King Jr,730,32.0,39,63,Cod with Tomato-Olive-Chorizo Sauce and Mashed Potatoes,733.0,56.0,40.0,30.0,https://spoonacular.com/recipeImages/639851-312x231.jpg
+86,Arbys,Loaded Italian Sandwich,680,32.0,40,49,Cinnamon French Toast Sticks,695.0,23.0,26.0,87.0,https://spoonacular.com/recipeImages/764752-312x231.jpg
+87,Taco Bell,Smothered Burrito - Steak,670,35.0,29,68,Slow Cooker Red Beans and Rice,639.0,29.0,31.0,51.0,https://spoonacular.com/recipeImages/715493-312x231.jpg
+88,Mcdonalds,4 piece Sweet N' Spicy Honey BBQ Glazed Tenders,640,39.0,27,63,Loaded Turkey Burgers,611.0,40.0,37.0,27.0,https://spoonacular.com/recipeImages/650235-312x231.jpg
+89,Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610,40.0,30,44,Chunky Two-Bean Chili,637.0,23.0,26.0,58.0,https://spoonacular.com/recipeImages/639392-312x231.jpg
+90,Subway,Footlong Sweet Onion Chicken Teriyaki,760,52.0,10,118,Mediterranean Watermelon Salad,762.0,28.0,38.0,80.0,https://spoonacular.com/recipeImages/651448-312x231.jpg
+91,Burger King,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720,36.0,50,32,Collard greens with white beans and sausage,701.0,36.0,31.0,54.0,https://spoonacular.com/recipeImages/1095798-312x231.jpg
+92,Arbys,Reuben Sandwich,680,37.0,31,62,Baked Fried Chicken With Cauliflower Mash,662.0,66.0,29.0,28.0,https://spoonacular.com/recipeImages/633624-312x231.jpg
+93,Taco Bell,Crispy Chicken Quesadilla,650,26.0,37,51,Herb and Cheddar Cordon Bleu,661.0,68.0,21.0,43.0,https://spoonacular.com/recipeImages/149425-312x231.jpg
+94,Mcdonalds,Maple Bacon Dijon 1/4 lb Burger,640,37.0,36,40,Salt-Crusted Snapper With Blood Orange and Bay,620.0,101.0,20.0,1.0,https://spoonacular.com/recipeImages/659192-312x231.jpg
+95,Sonic,Large Spicy Jumbo Popcorn Chicken,610,36.0,30,51,Slow Braised Red Wine Lamb Stew with Moroccan Spices,601.0,39.0,14.0,57.0,https://spoonacular.com/recipeImages/1098301-312x231.jpg
+96,Subway,Footlong Steak and Cheese,760,52.0,20,96,Fried Ravioli & Mint Parsley Pesto,784.0,17.0,62.0,38.0,https://spoonacular.com/recipeImages/643781-312x231.jpg
+97,Burger King,Spicy Crispy Chicken Sandwich,700,25.0,42,57,Lamb Coconut Tomato Curry Sauce,674.0,31.0,53.0,15.0,https://spoonacular.com/recipeImages/716338-312x231.jpg
+98,Arbys,Bourbon BBQ Brisket Sandwich,650,38.0,33,51,Black Bean Soup With Pico De Gallo and Chipotle Creme,627.0,42.0,24.0,47.0,https://spoonacular.com/recipeImages/635077-312x231.jpg
+99,Taco Bell,Smothered Burrito - Shredded Chicken,650,34.0,28,67,White Chocolate Christmas Holiday Pretzels and Santa’s Snack Mix,667.0,12.0,28.0,94.0,https://spoonacular.com/recipeImages/715469-312x231.jpg
+100,Mcdonalds,Grilled Sweet BBQ Bacon Chicken Sandwich,630,48.0,22,61,Carne Asada Burritos,658.0,71.0,22.0,37.0,https://spoonacular.com/recipeImages/637133-312x231.jpg
+101,Sonic,Jr. Double Cheeseburger,600,31.0,38,35,Faux-Fried Ice Cream,626.0,9.0,24.0,94.0,https://spoonacular.com/recipeImages/642636-312x231.jpg
+102,Subway,Footlong Subway Melt (includes cheese),740,46.0,22,94,Linguine Alla Carbonara,728.0,32.0,25.0,87.0,https://spoonacular.com/recipeImages/650119-312x231.jpg
+103,Burger King,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700,28.0,41,54,Super Easy Sheet-Pan Shrimp Boil that You'll Make Over and Over Again,671.0,35.0,44.0,31.0,https://spoonacular.com/recipeImages/1697705-312x231.jpeg
+104,Arbys,Buttermilk Chicken Bacon & Swiss,650,39.0,31,56,"Roast Vegetable, Ham and Cheese Crumble",657.0,31.0,37.0,37.0,https://spoonacular.com/recipeImages/658475-312x231.jpg
+105,Taco Bell,Beef Quesarito,650,22.0,34,65,Sesame Seared Tofu With Jalapeno Miso Dressing,678.0,33.0,27.0,79.0,https://spoonacular.com/recipeImages/659757-312x231.jpg
+106,Mcdonalds,Garlic White Cheddar Burger,620,32.0,34,48,Four-Bean Salad,622.0,14.0,17.0,95.0,https://spoonacular.com/recipeImages/643239-312x231.jpg
+107,Sonic,Crispy Chicken Sandwich,570,23.0,33,47,Bacon & Egg Toast Cups,562.0,23.0,40.0,25.0,https://spoonacular.com/recipeImages/633265-312x231.jpg
+108,Subway,Cheese & Veggies Pizza,740,36.0,25,100,Easter Sugar Cookie Bars,759.0,10.0,34.0,103.0,https://spoonacular.com/recipeImages/715512-312x231.jpg
+109,Burger King,Chicken BLT Salad w/ Crispy Chicken,690,35.0,48,31,Korean Candy Chicken,671.0,57.0,9.0,86.0,https://spoonacular.com/recipeImages/649036-312x231.jpg
+110,Arbys,Three Cheese Steak Sandwich,650,30.0,36,44,Ridiculously Easy Gourmet Tuna Sandwich,662.0,31.0,51.0,16.0,https://spoonacular.com/recipeImages/1697751-312x231.jpg
+111,Taco Bell,Steak Quesarito,630,25.0,31,64,Easy and Delicious Taco Soup,600.0,38.0,23.0,53.0,https://spoonacular.com/recipeImages/641815-312x231.jpg
+112,Mcdonalds,Pico Guacamole 1/4 lb Burger,580,29.0,33,41,Asparagus Lemon Risotto,609.0,16.0,6.0,108.0,https://spoonacular.com/recipeImages/632935-312x231.jpg
+113,Sonic,Large Jumbo Popcorn Chicken,560,27.0,32,41,Soft Chin Chin,568.0,11.0,23.0,76.0,https://spoonacular.com/recipeImages/716267-312x231.jpg
+114,Subway,Footlong Cold Cut Combo,740,36.0,26,92,Bar Nuts,725.0,24.0,63.0,14.0,https://spoonacular.com/recipeImages/634251-312x231.jpg
+115,Burger King,Crispy Chicken Sandwich,670,23.0,41,54,Sun-Dried Tomato and Leek Quiche,681.0,20.0,43.0,51.0,https://spoonacular.com/recipeImages/662291-312x231.jpg
+116,Arbys,Fire-Roasted Philly Steak,640,42.0,32,46,Finger Foods: Frittata Muffins,655.0,50.0,45.0,9.0,https://spoonacular.com/recipeImages/716432-312x231.jpg
+117,Taco Bell,Beef Crunchy Cheesy Core Burrito,630,22.0,26,76,Loaded Baked Potato Soup,624.0,21.0,35.0,56.0,https://spoonacular.com/recipeImages/715562-312x231.jpg
+118,Mcdonalds,Grilled Maple Bacon Dijon Chicken Sandwich,580,48.0,21,50,Madeleines With Irish Whiskey Fudge,584.0,8.0,30.0,70.0,https://spoonacular.com/recipeImages/650602-312x231.jpg
+119,Sonic,5 Piece Super Crunch Chicken Strips,550,36.0,26,42,Jean's Seafood Gumbo,524.0,68.0,19.0,16.0,https://spoonacular.com/recipeImages/648524-312x231.jpg
+120,Subway,Rotisserie-Style Chicken Caesar Wrap,730,55.0,34,53,Learning to live healthier,713.0,69.0,44.0,6.0,https://spoonacular.com/recipeImages/715596-312x231.jpg
+121,Burger King,Chicken Caesar Salad w/ Crispy Chicken,670,34.0,43,40,"Red, White & Blue Smoothie",693.0,38.0,14.0,90.0,https://spoonacular.com/recipeImages/658130-312x231.jpg
+122,Arbys,Beef 'n Cheddar Mid,630,39.0,32,48,Cottage pie with Quorn mince,629.0,32.0,28.0,56.0,https://spoonacular.com/recipeImages/640185-312x231.jpg
+123,Taco Bell,Chicken Quesarito,620,24.0,30,64,Easy Chicken Fricassee,623.0,40.0,22.0,63.0,https://spoonacular.com/recipeImages/511785-312x231.jpg
+124,Mcdonalds,Premium Buttermilk Crispy Chicken Deluxe Sandwich,570,28.0,23,64,Curry and Sage Roast Chicken,565.0,36.0,39.0,15.0,https://spoonacular.com/recipeImages/641110-312x231.jpg
+125,Sonic,Cheesy Bacon Pretzel Dog - 6 In.,500,15.0,26,46,classic beef burgundy,490.0,44.0,16.0,28.0,https://spoonacular.com/recipeImages/639567-312x231.jpg
+126,Subway,Footlong Rotisserie Style Chicken,700,58.0,12,88,"Quinoa Salad With Avocado, Asparagus and Sun Dried Tomatoes",718.0,20.0,35.0,70.0,https://spoonacular.com/recipeImages/657679-312x231.jpg
+127,Burger King,WHOPPER w/o Cheese,660,28.0,40,49,THE Chocolate Cake,645.0,5.0,26.0,102.0,https://spoonacular.com/recipeImages/663261-312x231.jpg
+128,Arbys,"Roast Turkey, Ranch & Bacon Wrap",620,37.0,34,39,Chunky Two-Bean Chili,637.0,23.0,26.0,58.0,https://spoonacular.com/recipeImages/639392-312x231.jpg
+129,Taco Bell,Chickstar,620,17.0,37,53,Crispy Sweet Sticky Spicy Wings,600.0,30.0,24.0,65.0,https://spoonacular.com/recipeImages/640841-312x231.jpg
+130,Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,560,41.0,20,56,Lamb and Rice Noodle Stir Fry,541.0,28.0,22.0,52.0,https://spoonacular.com/recipeImages/649187-312x231.jpg
+131,Subway,Cheese Pizza,680,32.0,22,96,Sticky Toffee Pudding,695.0,6.0,35.0,92.0,https://spoonacular.com/recipeImages/661633-312x231.jpg
+132,Burger King,Original Chicken Sandwich,630,24.0,39,46,Faux-Fried Ice Cream,626.0,9.0,24.0,94.0,https://spoonacular.com/recipeImages/642636-312x231.jpg
+133,Taco Bell,Chicken Crunchy Cheesy Core Burrito,610,25.0,24,74,Korean Sweet n Sour Chicken,604.0,56.0,22.0,38.0,https://spoonacular.com/recipeImages/638369-312x231.jpg
+134,Arbys,Half Pound Roast Beef Sandwich,610,48.0,30,38,Bacon Wrapped Green Bean Bundles,592.0,12.0,46.0,33.0,https://spoonacular.com/recipeImages/633340-312x231.jpg
+135,Mcdonalds,Big Mac,540,25.0,28,46,Black Beans & Brown Rice With Garlicky Kale,516.0,18.0,18.0,53.0,https://spoonacular.com/recipeImages/635081-312x231.jpg
+136,Subway,Footlong Carved Turkey,660,50.0,10,90,Oxtail Ragout,637.0,73.0,30.0,15.0,https://spoonacular.com/recipeImages/654285-312x231.jpg
+137,Taco Bell,Steak Crunchy Cheesy Core Burrito,610,25.0,24,75,Crepes Suzette,619.0,11.0,40.0,53.0,https://spoonacular.com/recipeImages/640767-312x231.jpg
+138,Arbys,Smokehouse Brisket,600,33.0,35,42,Penne Con Funghi E Melanzane (Penne With Mushrooms and Eggplant),599.0,15.0,24.0,70.0,https://spoonacular.com/recipeImages/655570-312x231.jpg
+139,Burger King,Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,590,42.0,40,18,Artichoke croutons with guacamole,601.0,15.0,32.0,60.0,https://spoonacular.com/recipeImages/632755-312x231.jpg
+140,Mcdonalds,Grilled Garlic White Cheddar Chicken Sandwich,530,42.0,20,48,Suzanne’s Red Chili,505.0,30.0,20.0,37.0,https://spoonacular.com/recipeImages/662391-312x231.jpg
+141,Subway,Footlong Roast Beef,640,48.0,10,90,Easy Chicken Fricassee,623.0,40.0,22.0,63.0,https://spoonacular.com/recipeImages/511785-312x231.jpg
+142,Taco Bell,Double Chalupa,600,21.0,35,50,Jana’s Homemade Mac and Cheese,579.0,27.0,25.0,59.0,https://spoonacular.com/recipeImages/648446-312x231.png
+143,Arbys,5 piece Prime-Cut Chicken Tenders,600,39.0,28,47,Trinidadian Chicken Potato Curry,574.0,35.0,37.0,21.0,https://spoonacular.com/recipeImages/663824-312x231.jpg
+144,Burger King,Extra Long Cheeseburger,580,26.0,33,45,Amatriciana,563.0,24.0,30.0,46.0,https://spoonacular.com/recipeImages/632297-312x231.jpg
+145,Mcdonalds,Quarter Pounder® with Cheese,530,31.0,27,41,Multigrain Tandoori Pizza With Paneer Tikka,505.0,22.0,33.0,29.0,https://spoonacular.com/recipeImages/652592-312x231.jpg
+146,Subway,Footlong Oven Roasted Chicken,640,46.0,10,44,Eggplant Parmesan Roll-Ups,669.0,21.0,45.0,42.0,https://spoonacular.com/recipeImages/642297-312x231.jpg
+147,Taco Bell,Spicy Double Chalupa,600,21.0,35,52,Cassoulet for 10,591.0,43.0,24.0,40.0,https://spoonacular.com/recipeImages/637275-312x231.jpg
+148,Arbys,Smokehouse Beef Short Rib Sandwich,590,26.0,59,59,Crack Chicken Chili,609.0,27.0,38.0,31.0,https://spoonacular.com/recipeImages/1502521-312x231.jpg
