@@ -12,6 +12,7 @@ To complete this project, we looked to answer a few different questions around k
 •	If you’re going to eat fast food, what is the best restaurant to eat at regarding recommended dietary values? 
 •	In regards to calories, fat and protein, how do items at one fast food restaurant compare with menus of other fast-food restaurants?
 •	What items at which restaurant fall within the suggested daily caloric intake averages and are still high in protein to keep you filled up?
+• How do the fast food items compare in terms of Sodium and Cholesterol values? 
 
 ## Key nutrients and their relationship to calories
 We sorted each category - calories, protein, fat, sodium, sugar - by their minimum and maximum values and grouped this information by restaurant to better understand the range of menu items each venue offered. We then wanted to understand the relationship each key nutrient played to calories. Being that calories are an overarching unit, we wanted to know how protein, fat, sodium and sugar influenced this value. We found no one key nutrient had a linear relationship. As well as the fact that McDonald's has outliers across all categories.  
